@@ -50,15 +50,21 @@ let plantData: [Plant] = [
 //
 //            The ASPCA cautions that this plant is toxic to cats and dogs. If these furry friends live in your home, consider an animal-friendly houseplant instead.
 //            """),
-    Plant(name: "Hoya", image: "hoya", gradientColors: [Color.clear, Color("ColorHoya").opacity(0.8)], description: "Hoyas don't ask for much, beyond the well-draining soil and the warm humid conditions that many tropical plants crave.", plantProfile: ["", ""], care: ""),
+    Plant(name: "Hoya compacta 'Regalis'", image: "hoya", gradientColors: [Color.clear, Color("ColorHoya").opacity(0.8)], description: "Hoyas don't ask for much, beyond the well-draining soil and the warm humid conditions that many tropical plants crave.", plantProfile: ["", ""], care: ""),
     
-    Plant(name: "Pothos", image: "pothos", gradientColors: [Color.clear, Color("ColorPothos")], description: "Pothos is arguably the easiest of all houseplants to grow, even if you are a person who forgets to water your plants.", plantProfile: ["", ""], care: ""),
+    Plant(name: "Epipremnum aureum", image: "pothos", gradientColors: [Color.clear, Color("ColorPothos")], description: "Pothos is arguably the easiest of all houseplants to grow, even if you are a person who forgets to water your plants.", plantProfile: ["", ""], care: ""),
     
     Plant(name: "Cactus", image: "cactus", gradientColors: [Color.clear, Color("ColorCactus").opacity(0.8)], description: "There are two large groups of cacti grown as houseplants; both are popular and familiar, and both can thrive indoors with relatively little maintenance.", plantProfile: ["", ""], care: ""),
     
     Plant(name: "Sansevieria Moonshine", image: "moonshine", gradientColors: [Color.clear, Color("ColorMoonshine").opacity(0.9)], description: "Native to West Africa, this plant is commonly known as a snake plant. ", plantProfile: ["", ""], care: ""),
     
-    Plant(name: "Monstera Deliciosa", image: "monstera", gradientColors: [Color.clear, Color("ColorMonstera").opacity(0.8)], description: "Hoyas don't ask for much, beyond the well-draining soil and the warm humid conditions that many tropical plants crave.", plantProfile: ["", ""], care: ""),
+    Plant(name: "Monstera Deliciosa", image: "monstera", gradientColors: [Color.clear, Color("ColorMonstera").opacity(0.8)], description: "Monstera Deliciosa is probably one of the most popular house plants. It has beautiful large green leaves that feature slits and fenestrations.", plantProfile: ["", ""], care: ""),
     
-    Plant(name: "Sansevieria Laurentii", image: "sanseveria", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Hoyas don't ask for much, beyond the well-draining soil and the warm humid conditions that many tropical plants crave.", plantProfile: ["", ""], care: "")
+    Plant(name: "Sansevieria Laurentii", image: "sanseveria", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Sansevieria laurentii is pretty much unkillable and survives in almost any growing condition.", plantProfile: ["", ""], care: ""),
+    
+    Plant(name: "Philadendron Brasil", image: "philodendron", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Although many Philodendron varieties are labeled as low light plants, you’ll want to give your Philodendron Brazil a little more light since it is variegated.", plantProfile: ["", ""], care: ""),
+    
+    Plant(name: "Kentia Palm", image: "kentia", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Kentia palms are native to Lord Howe Island in the South Pacific. These palms are also known as sentry or paradise palms.", plantProfile: ["", ""], care: ""),
+    
+    Plant(name: "Pilea Peperomioides", image: "pilea", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "It will thrive and grow in your living room, kitchen, bedroom, or anywhere needing nature's touch!", plantProfile: ["", ""], care: ""),
 ]
