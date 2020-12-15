@@ -8,7 +8,8 @@
 import SwiftUI
 
 let plantData: [Plant] = [
-    Plant(name: "Hoya compacta", image: "hoya", gradientColors: [Color.clear, Color("ColorHoya").opacity(0.8)], description: "Hoyas don't ask for much, beyond the well-draining soil and the warm humid conditions that many tropical plants crave.", plantProfile: ["", ""],
+    Plant(name: "Hoya compacta", image: "hoya", gradientColors: [Color.clear, Color("ColorHoya").opacity(0.8)], description: "Hoyas don't ask for much, beyond the well-draining soil and the warm humid conditions that many tropical plants crave.",
+          plantProfile: ["Hoya compacta Regalis", "Hoya compacta, wax plant, Hindu Rope Hoya", "Epiphyte", "Can grow 12-20ft in length", "Full sun-bright, indirect light", "Rich, well-draining", "6.1-7.3", "Spring, summer", "Light pink, white", "Indonesia", "Non-toxic"],
           care: """
             Hoyas are among my favorite houseplants. They are tons of varieties, are easy to grow, tolerate neglect, and are great for the beginner or experienced houseplant enthusiast alike! Hindu Rope Hoya, or Hoya carnosa, is a unique Hoya with crinkled, tightly packed leaves. You may also hear some people refer to the plant as Krinkle Kurl.
 
@@ -221,7 +222,7 @@ let plantData: [Plant] = [
         """
     ),
     
-    Plant(name: "Pilea Peperomioides", image: "pilea", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "It will thrive and grow in your living room, kitchen, bedroom, or anywhere needing nature's touch!", plantProfile: ["", ""],
+    Plant(name: "Pilea Peperomioides", image: "pilea", gradientColors: [Color.clear, Color("ColorPilea").opacity(0.8)], description: "It will thrive and grow in your living room, kitchen, bedroom, or anywhere needing nature's touch!", plantProfile: ["Pilea peperomioides", "Chinese money plant, coin plant, pancake plant, UFO plant", "Evergreen perennial", "12 inches tall", "Bright indirect light", "Well-draining, rich", "6.0-7.0", "Spring", "White", "China", "Non-toxic"],
           care: """
             The Pilea peperomioides is a popular houseplant thanks to its attractive coin-shaped foliage and ease of care. This flowering perennial in the nettle family (Urticaceae) is native to southern China, growing naturally along the base of the Himalayan mountains. The Pilea peperomioides has many different common names and may also be referred to as the Chinese money plant, coin plant, pancake plant, and UFO plant.
 

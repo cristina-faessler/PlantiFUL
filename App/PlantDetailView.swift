@@ -29,6 +29,7 @@ struct PlantDetailView: View {
                         
                         
                         // Plant profile
+                        PlantProfileView(plant: plant)
                         
                         // Subheadline
                         Text("Learn more about \(plant.name)".uppercased())
@@ -56,6 +57,6 @@ struct PlantDetailView: View {
 
 struct PlantDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        PlantDetailView(plant: plantData[4])
+        PlantDetailView(plant: plantData[8])
     }
 }
