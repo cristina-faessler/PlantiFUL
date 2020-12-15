@@ -168,23 +168,80 @@ let plantData: [Plant] = [
     
     Plant(name: "Sansevieria Laurentii", image: "sanseveria", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Sansevieria laurentii is pretty much unkillable and survives in almost any growing condition.", plantProfile: ["", ""],
           care: """
+            All varieties of the snake plant (genus sansevieria) are succulents that grow well indoors as houseplants. Also known as viper’s bowstring hemp, or mother in law’s tongue, sansevieria varieties are excellent houseplants that suit your home decor. Some snake plant varieties have a long sword-shaped flat green leaves. Other tropical sansevieria varieties such as sansevieria cylindrica (African spear plant), and starfish sansevieria have cylindrical round leaves with pointed ends. There are even snake plant varieties such as Sansevieria Trifasciata ‘Black Gold’ that can be used as air filtering house plants. To care for sansevieria varieties (snake plants) grow the plants in well-draining potting soil and water them when the soil is dry. In winter, only water your snake plants (sansevieria) occasionally. Snake plants grow well indoors at normal room temperature. Fertilize sansevierias once a month in spring and summer. To help the snake plant grow well indoors use a pot with a drainage hole in the bottom.
 
+            One of the reasons to grow sansevierias indoors is that they grow well in poor conditions. These succulents requires little maintenance and can provide attractive green and yellow colors to your home décor. There are about 70 species of Sansevieria. Theses are flowering plants in the genus Sansevieria and in the plant family Asparagaceae. Sansevieria varieties are colloquially known as ‘snake plants’ because of their long leaves and tapered ends. Depending on the variety, other types of sansevieria plants have other common names. For example, the Sansevieria trifasciata is commonly named ‘mother-in-law’s tongue.’ Its name comes from the fact that the plant leaves are long and sharp. This sansevieria variety is also called ‘viper’s bowstring hemp’ because its fibers are strong enough to make bowstrings.
+
+            One of the main benefits of growing a snake plant (sansevieria) indoors is its ability to filter certain toxins from the air. The advantage of growing Sansevieria laurentii (Mother in Law’s Tongue) is that it reduces the levels of the toxins Trichloroethylene (TCE), Benzene, and Formaldehyde. This benefit was reported in a study conducted by NASA.
+
+            One of the tallest varieties of sansevieria trifasciata is the ‘Laurentii’ cultivar. This snake plant has tall elegant variegated yellow and green leaves. The grayish-green leaves have stripy patterns along their length. The yellow band running the length of the ‘snake’ leaves gives style and elegance to this sansevieria variety. Expect this striped snake plant to grow to between 2 and 4 ft. (60 – 120 cm) tall. This robust type of leafy plant grows well in most conditions. Due to its tall-growing nature, it is a good type of tropical houseplant to place in corners where some height is needed.
         """
     ),
     
     Plant(name: "Philadendron Brasil", image: "philodendron", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Although many Philodendron varieties are labeled as low light plants, you’ll want to give your Philodendron Brazil a little more light since it is variegated.", plantProfile: ["", ""],
           care: """
+            Philodendron ‘Brasil’ tolerates low light but prefers bright, indirect illumination. Its well-draining soil should dry halfway before watering. The plant likes warm room temperatures year-round, can handle normal humidity, and is hardy against pests and disease. Fertilize regularly during the growing season. East- and west-facing windows are generally excellent locations to provide good Philodendron Brasil care. They also do well in the strong light of a southern exposure if placed a few feet away. Artificial illumination is another good option. If you want to put them in a north-facing window or another spot without much ambient light – for example, the center of a room – artificial light can make up the difference.
+
+            WATERING
+
+            Philodendron Brasil isn’t fussy about watering; though, like most plants, they hate being overwatered. They aren’t as susceptible to root rot as many tropicals, but they aren’t invulnerable. Even if they don’t succumb to root rot outright, soil that stays too wet can slow their growth and cause smaller leaves. The plant’s soil can become fairly dry without protest, but it doesn’t like drought. Let the soil dry out about halfway before watering – the top two inches at a minimum. Use your finger to check; don’t depend on a schedule. The following are signs to watch for. Overwatering and underwatering can show similar symptoms, so check the roots and soil if you aren’t sure. Yellow leaves usually means overwatering … but chronic drought also stresses leaves. Foliage with brown edges usually means underwatering. Leaves that turn completely brown can mean root rot from overwatering. Wilting is caused by a lack of internal pressure: Underwatered foliage wilts from lack of water; overwatering can rot the roots and starve the leaves.
+
+            SOIL
+
+            The Philodendron Brasil is a hemiepiphyte that can live part of its life in a tree canopy. It doesn’t need traditional soil. Because of this, the plant does best in a loose and well-draining mix with good water retention. Soilless mixes of sphagnum peat moss or coco coir work well. Adding 50% perlite to a regular potting mix can be effective, too, but avoid excessive organic amendments as these can decompose and become compacted.
+
+            HUMIDITY
+
+            Another reason the Philodendron Brasil is such an exceptional low-maintenance plant is its tolerance of dry air indoors. Like most tropicals, however, they do appreciate higher humidity. They tend to grow faster and produce larger leaves with more moisture in the air. Indoor heating in wintertime can cause issues: if the plant looks lackluster and its leaves are developing brown edges, consider grouping it with other plants, placing humidity trays nearby.
 
         """
     ),
     
-    Plant(name: "Fiddle Leaf Fig", image: "fiddle_leaf_fig", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Ficus lyrata is a popular indoor specimen plant featuring very large, heavily veined, violin-shaped leaves that grow upright.", plantProfile: ["", ""], care: """
+    Plant(name: "Fiddle Leaf Fig", image: "fiddle_leaf_fig", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Ficus lyrata is a popular indoor specimen plant featuring very large, heavily veined, violin-shaped leaves that grow upright.", plantProfile: ["", ""],
+          care: """
+            Fiddle-leaf figs are perfect as focal points of a room if you can situate them in a floor-standing container where the plant is allowed to grow to at least 6 feet. They’re fairly fast growers and can be potted at any point in the year if you're like most gardeners acquiring a nursery plant to keep indoors.
+
+            Fiddle-leaf figs are not especially demanding plants as long as you can get their growing conditions right. When grown as a houseplant, be prepared to rotate your fiddle-leaf fig every few days so a different part faces the light source. That way, it will grow evenly, rather than lean toward the light. Also, every week or two dust the leaves with a damp cloth. Not only does this make the leaves appear shinier and more appealing, but it also allows more sunlight to hit the leaves for photosynthesis. Moreover, you can trim off any damaged or dead leaves as they arise, as they no longer benefit the plant. And if you wish, you can prune off the top of the main stem for a bushier growth habit.
+
+            LIGHT
+
+            Fiddle-leaf figs require bright, filtered light to grow and look their best. Direct sunlight can burn the leaves, especially exposure to hot afternoon sun. And plants that are kept in very low light conditions will fail to grow rapidly.
+
+            SOIL
+
+            Any quality indoor plant potting mix should be suitable for a fiddle-leaf fig. Ensure that the soil drains well.
+
+            WATER
+
+            Fiddle-leaf figs like a moderate amount of moisture in the soil. If the plant doesn’t get enough water, its leaves will wilt and lose their bright green color. And if it gets too much water, the plant might drop its leaves and suffer from root rot, which ultimately can kill it. During the growing season (spring to fall), water your fiddle-leaf fig when the top inch of soil feels dry. And over the winter months, water slightly less. Furthermore, these plants are sensitive to high salt levels in the soil. So it's ideal to flush the soil until water comes out the bottom of the pot at least monthly. This helps to prevent salt build-up.
+
+            FERTILIZER
+
+            Fertilize throughout the growing season with a high-nitrogen plant food, following label instructions. There are fertilizers specially made for fiddle-leaf figs available. You generally won’t have to feed your plant over the winter.
         """
     ),
     
     Plant(name: "Pilea Peperomioides", image: "pilea", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "It will thrive and grow in your living room, kitchen, bedroom, or anywhere needing nature's touch!", plantProfile: ["", ""],
           care: """
+            The Pilea peperomioides is a popular houseplant thanks to its attractive coin-shaped foliage and ease of care. This flowering perennial in the nettle family (Urticaceae) is native to southern China, growing naturally along the base of the Himalayan mountains. The Pilea peperomioides has many different common names and may also be referred to as the Chinese money plant, coin plant, pancake plant, and UFO plant.
 
+            LIGHT
+
+            The Pilea peperomioides thrives in medium to bright indirect light. Rotate your plant regularly to keep it looking symmetrical. Avoid locations that receive harsh, direct light as it will burn the delicate leaves.
+
+            While this plant can adapt to lower light conditions; it will become leggy, grow fewer offshoots, and the coin-shaped leaves may become smaller. Overall, this plant is healthiest and most attractive when grown in bright light conditions.
+
+            SOIL
+
+            Plant your Pilea peperomioides in rich, well-draining soil. A high-quality organic potting mix that is peat-based or coir-based is best. Amend the soil with perlite to increase the drainage and ensure the soil does not become waterlogged. A soil pH between 6.0-7.0 is best for this plant.
+
+            WATER
+
+            This evergreen perennial is considered to have medium water needs. Allow the plant to nearly dry out between waterings and then water well. The leaves of a Pilea peperomioides will begin to droop when it dries out, which is a good indication that it’s time for watering.
+
+            FERTILIZER
+
+            The Pilea peperomioides benefits from monthly fertilization in the spring and summer months. Use a balanced, all-purpose fertilizer for best results. Avoid fertilizing during the fall and winter months when the plant has gone into dormancy.
         """
     ),
 ]

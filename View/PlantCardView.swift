@@ -49,7 +49,8 @@ struct PlantCardView: View {
             .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)
             .cornerRadius(20)
             .padding(.horizontal, 20)
-            .shadow(color: Color.black.opacity(0.2), radius: 10, x: 10, y: 10)
+            .shadow(color: Color.black.opacity(0.2), radius: 8, x: 10, y: 10)
+            .shadow(color: Color.black.opacity(0.2), radius: 8, x: -5, y: -5)
         }
     }
 }
