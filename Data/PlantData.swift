@@ -44,7 +44,8 @@ let plantData: [Plant] = [
             """
     ),
     
-    Plant(name: "Epipremnum aureum", image: "pothos", gradientColors: [Color.clear, Color("ColorPothos")], description: "Pothos is arguably the easiest of all houseplants to grow, even if you are a person who forgets to water your plants.", plantProfile: ["", ""],
+    Plant(name: "Epipremnum aureum", image: "pothos", gradientColors: [Color.clear, Color("ColorPothos")], description: "Pothos is arguably the easiest of all houseplants to grow, even if you are a person who forgets to water your plants.",
+          plantProfile: ["Epipremnum aureum", "Golden pothos, silver vine, taro vine, devil's vine, devil's ivy", "Trailing vine", "6 to 10 feet (as much as 30 feet)", "Shade to part shade outdoors, bright indirect light indoors", "Well-drained potting soil", "6.1 to 6.5", "Does not flower unless treated with a special hormone supplement", "Does not flower", "Solomon Islands", "Toxic"],
           care: """
         Epipremnum aureum is the finest houseplant for growers who struggle to keep their plants alive. This plant thrives well in every kind of condition. It grows even in areas with no sunlight, which makes it great for shaded or dark corners. Epipremnum aureum is great for offices as it nurtures in fluorescent lighting.
 
@@ -68,7 +69,9 @@ let plantData: [Plant] = [
         """
             ),
     
-    Plant(name: "Cactus", image: "cactus", gradientColors: [Color.clear, Color("ColorCactus").opacity(0.8)], description: "There are two large groups of cacti grown as houseplants; both are popular and familiar, and both can thrive indoors with relatively little maintenance.", plantProfile: ["", ""], care: """
+    Plant(name: "Cactus", image: "cactus", gradientColors: [Color.clear, Color("ColorCactus").opacity(0.8)], description: "There are two large groups of cacti grown as houseplants; both are popular and familiar, and both can thrive indoors with relatively little maintenance.",
+          plantProfile: ["Cactaceae", "Cactus, desert cactus, forest cactus", "Succulents (with some exceptions)", "Varies depending on variety", "Some direct sun; quantity varies depending on variety", "Well-draining sandy soil", "5.5 to 7", "Varies", "Varies", "Deserts and rainforests around the world", "The cactus species emit a white-colored sap that can cause skin irritations"],
+          care: """
             In its natural habitat, the orchid cactus grows on tree branches. So, its root system is delicate and needs air to thrive. And because regular soil is heavy and dense, it could suffocate your plant’s roots. As such, the best potting mix to use for your orchid cactus is a light, humus-rich, and porous potting soil that drains quickly but holds some moisture. The soil needs to be coarse and not finely sifted. Moreover, it should also be slightly acidic. You can use a regular potting mix with a bit of sand and peat. Sand with salt, like the one you get from the beach, is not recommended. You also need to make sure that you are using clean sand. You can also mix one part peat moss-based potting mix with one part perlite. This mixture would allow faster water drainage of water. For aeration and purification purposes, you can also add generous amounts of charcoal that are crushed into small bits.
 
             WATERING
@@ -93,7 +96,8 @@ let plantData: [Plant] = [
        """
             ),
     
-    Plant(name: "Sansevieria Moonshine", image: "moonshine", gradientColors: [Color.clear, Color("ColorMoonshine").opacity(0.9)], description: "Native to West Africa, this plant is commonly known as a snake plant. ", plantProfile: ["", ""],
+    Plant(name: "Sansevieria Moonshine", image: "moonshine", gradientColors: [Color.clear, Color("ColorMoonshine").opacity(0.9)], description: "Native to West Africa, this plant is commonly known as a snake plant. ",
+          plantProfile: ["Sansevieria Moonshine", "Snake plant, mother-in-law's tongue, viper's bowstring hemp, and St. George's sword", "Evergreen perennial in Zones 9 thru 11; a houseplant in colder zones", "6 inches to 12 feet tall", "Part shade, low light conditions", "Fast-draining, sandier soil", "Slightly acidic to slightly alkaline", "Spring (blooms are rare)", "Greenish-white", "Tropical West Africa", "Toxic"],
           care: """
             The Moonshine Snake plant is kind of like a celebrity indoor plant amongst many households. Sansevierias are sturdy cultivars with immensely-low maintenance demands, so be sure that your experience with this houseplant would be incredibly exciting.
 
@@ -119,7 +123,7 @@ let plantData: [Plant] = [
         """
     ),
     
-    Plant(name: "Monstera Deliciosa", image: "monstera", gradientColors: [Color.clear, Color("ColorMonstera").opacity(0.8)], description: "Monstera Deliciosa is probably one of the most popular house plants. It has beautiful large green leaves that feature slits and fenestrations.", plantProfile: ["", ""],
+    Plant(name: "Monstera Deliciosa", image: "monstera", gradientColors: [Color.clear, Color("ColorMonstera").opacity(0.8)], description: "Monstera Deliciosa is probably one of the most popular house plants. It has beautiful large green leaves that feature slits and fenestrations.", plantProfile: ["Monstera Deliciosa", "Split-leaf philodendron, Swiss cheese plant, Windowleaf, Ceriman", "Climbing evergreen", "Three feet tall/long, spaced two to three feet wide", "Bright indirect sunlight, partially shaded", "Peat-based potting soil, well-drained", "Acid or neutral", "Mid-summer", "Cream/tan", "Central America", "Toxic"],
           care: """
             If intended as a houseplant, choose a deep pot with many drainage holes. Fill the bottom third with peaty potting soil and establish a stake gently for the stem to climb on. Set the roots into the container. Fill with soil around the roots. Firmly surround the stake with soil and use plant ties to attach the stem to the stake. Every two years or so, the Monstera deliciosa will likely outgrow its pot. Transplant into a pot a few inches wider and deeper.
 
@@ -167,7 +171,8 @@ let plantData: [Plant] = [
         """
     ),
     
-    Plant(name: "Sansevieria Laurentii", image: "sanseveria", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Sansevieria laurentii is pretty much unkillable and survives in almost any growing condition.", plantProfile: ["", ""],
+    Plant(name: "Sansevieria Laurentii", image: "sanseveria", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Sansevieria laurentii is pretty much unkillable and survives in almost any growing condition.",
+          plantProfile: ["Sansevieria Laurentii", "Snake plant, mother-in-law's tongue, viper's bowstring hemp, and St. George's sword", "Evergreen perennial in Zones 9 thru 11; a houseplant in colder zones", "6 inches to 12 feet tall", "Part shade, low light conditions", "Fast-draining, sandier soil", "Slightly acidic to slightly alkaline", "Spring (blooms are rare)", "Greenish-white", "Tropical West Africa", "Toxic"],
           care: """
             All varieties of the snake plant (genus sansevieria) are succulents that grow well indoors as houseplants. Also known as viper’s bowstring hemp, or mother in law’s tongue, sansevieria varieties are excellent houseplants that suit your home decor. Some snake plant varieties have a long sword-shaped flat green leaves. Other tropical sansevieria varieties such as sansevieria cylindrica (African spear plant), and starfish sansevieria have cylindrical round leaves with pointed ends. There are even snake plant varieties such as Sansevieria Trifasciata ‘Black Gold’ that can be used as air filtering house plants. To care for sansevieria varieties (snake plants) grow the plants in well-draining potting soil and water them when the soil is dry. In winter, only water your snake plants (sansevieria) occasionally. Snake plants grow well indoors at normal room temperature. Fertilize sansevierias once a month in spring and summer. To help the snake plant grow well indoors use a pot with a drainage hole in the bottom.
 
@@ -179,7 +184,8 @@ let plantData: [Plant] = [
         """
     ),
     
-    Plant(name: "Philadendron Brasil", image: "philodendron", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Although many Philodendron varieties are labeled as low light plants, you’ll want to give your Philodendron Brazil a little more light since it is variegated.", plantProfile: ["", ""],
+    Plant(name: "Philadendron Brasil", image: "philodendron", gradientColors: [Color.clear, Color("ColorPhilodendron").opacity(0.8)], description: "Although many Philodendron varieties are labeled as low light plants, you’ll want to give your Philodendron Brazil a little more light since it is variegated.",
+          plantProfile: ["Philodendron Brasil", "Philodendron", "Houseplant, Perennial", "8 feet", "Part Sun", "Equal parts loam, sand, and peat", "5.0 to 6.0 (slightly acidic)", "None", "None", "Rainforests of tropical Central and South America", "Toxic"],
           care: """
             Philodendron ‘Brasil’ tolerates low light but prefers bright, indirect illumination. Its well-draining soil should dry halfway before watering. The plant likes warm room temperatures year-round, can handle normal humidity, and is hardy against pests and disease. Fertilize regularly during the growing season. East- and west-facing windows are generally excellent locations to provide good Philodendron Brasil care. They also do well in the strong light of a southern exposure if placed a few feet away. Artificial illumination is another good option. If you want to put them in a north-facing window or another spot without much ambient light – for example, the center of a room – artificial light can make up the difference.
 
@@ -198,7 +204,8 @@ let plantData: [Plant] = [
         """
     ),
     
-    Plant(name: "Fiddle Leaf Fig", image: "fiddle_leaf_fig", gradientColors: [Color.clear, Color("ColorSanseveria").opacity(0.8)], description: "Ficus lyrata is a popular indoor specimen plant featuring very large, heavily veined, violin-shaped leaves that grow upright.", plantProfile: ["", ""],
+    Plant(name: "Fiddle Leaf Fig", image: "fiddle_leaf_fig", gradientColors: [Color.clear, Color("ColorFicusLyrata").opacity(0.8)], description: "Ficus lyrata is a popular indoor specimen plant featuring very large, heavily veined, violin-shaped leaves that grow upright.",
+          plantProfile: ["Ficus lyrata", "Fiddle-leaf fig, banjo fig", "Broadleaf evergreen", "50 feet tall (outdoors), 10 feet tall (indoors)", "Part shade", "Loamy, medium moisture, well-draining", "6 to 7", "Rarely flowers outside of its native area", "Insignificant", "Tropical western Africa", "Toxic"],
           care: """
             Fiddle-leaf figs are perfect as focal points of a room if you can situate them in a floor-standing container where the plant is allowed to grow to at least 6 feet. They’re fairly fast growers and can be potted at any point in the year if you're like most gardeners acquiring a nursery plant to keep indoors.
 

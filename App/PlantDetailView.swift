@@ -40,9 +40,9 @@ struct PlantDetailView: View {
                         Text(plant.care)
                             .multilineTextAlignment(.leading)
                         // Link
-//                        SourceLinkView()
-//                            .padding(.top, 10)
-//                            .padding(.bottom, 40)
+                        SourceLinkView()
+                            .padding(.top, 10)
+                            .padding(.bottom, 40)
                     }
                     .padding(.horizontal, 20)
                     .frame(maxWidth: 640, alignment: .center)
@@ -57,6 +57,6 @@ struct PlantDetailView: View {
 
 struct PlantDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        PlantDetailView(plant: plantData[8])
+        PlantDetailView(plant: plantData[1])
     }
 }

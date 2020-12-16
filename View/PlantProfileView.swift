@@ -40,7 +40,7 @@ struct PlantProfileView: View {
 
 struct PlantProfileView_Previews: PreviewProvider {
     static var previews: some View {
-        PlantProfileView(plant: plantData[8])
+        PlantProfileView(plant: plantData[1])
             .preferredColorScheme(.dark)
             .previewLayout(.fixed(width: 375, height: 480))
             .padding()
